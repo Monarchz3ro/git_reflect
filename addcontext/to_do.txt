@@ -1,0 +1,5 @@
+for shiteater and i to collaborate on whatever the fuck we want to do
+////
+to do:
+1. figure out a canvasing method for tankwondo
+(openGL?? javascript canvas?? pygame sheets??)
